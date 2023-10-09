@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"components","l":"Border"},{"p":"components","l":"BorderList"},{"p":"components","l":"Box"},{"p":"main","l":"MainActivity"},{"p":"components","l":"Pawn"},{"p":"components","l":"Plateau"}];updateSearchResults();
